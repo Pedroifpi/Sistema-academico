@@ -1,0 +1,4 @@
+matematica:9.00
+fisica:9.00
+quimica:9.00
+media final:9.00
